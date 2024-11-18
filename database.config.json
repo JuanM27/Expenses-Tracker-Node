@@ -1,9 +1,9 @@
 {
     "db": {
-      "host": "junction.proxy.rlwy.net",
-      "port": 11506,
+      "host": "autorack.proxy.rlwy.net",
+      "port": 25088,
       "user": "root",
-      "password": "jZpOFYMIepOmwnFJvGGNJkfUFwIyfmDu",
+      "password": "hLSPifntYwLLPoeXzgvmpAdHTvlkgGHR",
       "database": "TFG-GestorGastos",
       "dialect": "mysql"
     }
